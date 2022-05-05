@@ -21,6 +21,6 @@ See run-experiment.sh and main.c for code.
 
 # Conclusions
 
-The hashmap was still faster than I expected, the linear lookup seemed to be equal around N=5, but was not
-much slower at N=8. I wouldn't take this seriously, but it was fun.
+The hashmap was faster than I expected, the linear lookup seemed to be equal around N=5, but was not
+much slower at N=8. You probably shouldn't draw any conclusions or take this seriously.
 
