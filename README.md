@@ -17,7 +17,7 @@ See run-experiment.sh and main.c for code.
 
 # Results
 
-[results](./results.png)
+![results](./results.png)
 
 # Conclusions
 
