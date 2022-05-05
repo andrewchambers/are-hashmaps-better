@@ -1,4 +1,4 @@
-# Are Hashmaps Worth it
+# Are Hashmaps Better
 
 A simple experiment on my machine to find at what point a string lookup is better
 with a hash map compared to a linear search. The data also includes binary search just for fun.

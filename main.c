@@ -19,8 +19,6 @@ struct hashtable {
 	void **vals;
 };
 
-
-
 uint64_t
 fnv64(const char *ptr, size_t len)
 {	
